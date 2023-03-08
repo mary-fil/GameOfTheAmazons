@@ -1,2 +1,2 @@
-this is the project for amazons game for the EPFU tutorials
+This is the project for the Game of the Amazons done in the first semester of Computer Science studies.
 
